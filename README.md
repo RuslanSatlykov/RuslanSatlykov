@@ -4,7 +4,7 @@
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api?theme=radical&hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=RuslanSatlykov)
-![](https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&layout=donut&langs_count=8&hide_progress=true&username=RuslanSatlykov)
+![](https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&layout=donut&langs_count=6&hide_progress=true&username=RuslanSatlykov)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
