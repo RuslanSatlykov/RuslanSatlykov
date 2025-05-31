@@ -81,8 +81,8 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/certificate.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png)
-[<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/RuslanSatlykov/RuslanSatlykov/refs/heads/main/stazhirovka_v_dzhunah.png)
+[<img src="/certificate.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/RuslanSatlykov/RuslanSatlykov/refs/heads/main/stazhirovka_v_dzhunah.png)
+
 
 <br>
 <br>
