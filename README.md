@@ -76,7 +76,7 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/RuslanSatlykov/RuslanSatlykov/refs/heads/main/certificate.png)
+[<img src="/stazhirovka_v_dzhunah.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/RuslanSatlykov/RuslanSatlykov/refs/heads/main/stazhirovka_v_dzhunah.png)
 
 <br>
 
